@@ -24,7 +24,7 @@ A comprehensive collection of 400 LeetCode solutions and core Machine Learning a
 ## 📚 Topic-wise Problem Index
 
 <details>
-<summary><b>🔹 Arrays & Hashing</b></summary>
+<summary><b> Arrays & Hashing</b></summary>
 
 1. [1. Two Sum](./0001_Two_Sum.ipynb) [🚀 Run in Colab](https://colab.research.google.com/github/QiupingLiGATech/Leetcode-Python/blob/main/0001_Two_Sum.ipynb)
 2. [242. Valid Anagram](./0242_Valid_Anagram.ipynb)
@@ -33,7 +33,7 @@ A comprehensive collection of 400 LeetCode solutions and core Machine Learning a
 </details>
 
 <details>
-<summary><b>🔹 Two Pointers & Sliding Window</b></summary>
+<summary><b> Two Pointers & Sliding Window</b></summary>
 
 1. [27. Remove Element](./0027_Remove_Element.ipynb)
 2. [15. 3Sum](./0015_3Sum.ipynb)
@@ -42,7 +42,7 @@ A comprehensive collection of 400 LeetCode solutions and core Machine Learning a
 </details>
 
 <details>
-<summary><b>🔹 Stacks & Queues</b></summary>
+<summary><b> Stacks & Queues</b></summary>
 
 1. [20. Valid Parentheses](./0020_Valid_Parentheses.ipynb)
 2. [232. Implement Queue using Stacks](./0232_Implement_Queue_using_Stacks.ipynb)
@@ -50,7 +50,7 @@ A comprehensive collection of 400 LeetCode solutions and core Machine Learning a
 </details>
 
 <details>
-<summary><b>🔹 Binary Trees</b></summary>
+<summary><b> Binary Trees</b></summary>
 
 1. [Binary Tree Foundations (Theory)](./Binary_Tree_Theory.ipynb)
 2. [102. Binary Tree Level Order Traversal](./0102_Level_Order.ipynb)
@@ -58,7 +58,7 @@ A comprehensive collection of 400 LeetCode solutions and core Machine Learning a
 </details>
 
 <details>
-<summary><b>🔹 Backtracking</b></summary>
+<summary><b> Backtracking</b></summary>
 
 1. [77. Combinations](./0077_Combinations.ipynb)
 2. [46. Permutations](./0046_Permutations.ipynb)
@@ -66,14 +66,14 @@ A comprehensive collection of 400 LeetCode solutions and core Machine Learning a
 </details>
 
 <details>
-<summary><b>🔹 Greedy Algorithms</b></summary>
+<summary><b> Greedy Algorithms</b></summary>
 
 1. [455. Assign Cookies](./0455_Assign_Cookies.ipynb)
 2. [53. Maximum Subarray](./0053_Maximum_Subarray.ipynb)
 </details>
 
 <details>
-<summary><b>🔹 Dynamic Programming</b></summary>
+<summary><b> Dynamic Programming</b></summary>
 
 1. [70. Climbing Stairs](./0070_Climbing_Stairs.ipynb)
 2. [322. Coin Change](./0322_Coin_Change.ipynb)
@@ -81,14 +81,14 @@ A comprehensive collection of 400 LeetCode solutions and core Machine Learning a
 </details>
 
 <details>
-<summary><b>🔹 Graph Theory</b></summary>
+<summary><b> Graph Theory</b></summary>
 
 1. [200. Number of Islands](./0200_Number_of_Islands.ipynb)
 2. [207. Course Schedule (Topological Sort)](./0207_Course_Schedule.ipynb)
 </details>
 
 <details>
-<summary><b>🔹 Machine Learning Foundations</b></summary>
+<summary><b> Machine Learning Foundations</b></summary>
 
 1. [K-Means Clustering from Scratch](./K_Means_Implementation.ipynb)
 2. [K-Nearest Neighbors (KNN) Implementation](./KNN_Implementation.ipynb)
