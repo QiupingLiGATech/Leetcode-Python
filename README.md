@@ -14,9 +14,6 @@ space complexities.
 
 ---
 # 🧭 LeetCode 刷题目录 (可折叠)
-
-> 已根据学习曲线优化排序；下方仅展示每章前若干题目，完整清单请展开查看。
-
 ---
 
 <details>
