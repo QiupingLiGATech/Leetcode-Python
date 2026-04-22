@@ -4,8 +4,8 @@ A comprehensive collection of 400 LeetCode problems solved using Python via Jupy
 For each problem, I discussed multiple apporaches and their corresponding time complexities and 
 space complexities. 
 
-## 📊 Progress Dashboard
-| Topic | Completed | 
+## 📊 Distribution Dashboard
+| Topic | # Problems Completed | 
 | :--- | :---: | 
 | **Arrays & Hashing** | 12 |
 | **Two Pointers** | 5 | 
