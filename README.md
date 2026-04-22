@@ -14,12 +14,6 @@ space complexities.
 * [Search in Rotated Sorted Array](./Search_Rotated.ipynb) 
 
 
-# 🐍 LeetCode & ML Algorithms (Python)
-
-A comprehensive collection of LeetCode solutions and core Machine Learning algorithms, optimized for performance and documented via Jupyter Notebooks. 
-
-> **Goal:** 400 Problems categorized by topic with complexity analysis and interactive Google Colab links.
-
 ---
 
 ## 📊 Progress Dashboard
