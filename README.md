@@ -17,12 +17,12 @@ space complexities.
 ---
 
 ## 📊 Progress Dashboard
-| Topic | Completed | Status |
-| :--- | :---: | :--- |
-| **Arrays & Hashing** | 12 / 50 | 🟢 In Progress |
-| **Two Pointers** | 5 / 30 | 🟡 Starting |
-| **Trees & Graphs** | 0 / 60 | ⚪ Planned |
-| **ML Foundations** | 3 / 10 | 🟢 In Progress |
+| Topic | Completed | 
+| :--- | :---: | 
+| **Arrays & Hashing** | 12 |
+| **Two Pointers** | 5 | 
+| **Trees & Graphs** | 0  | 
+| **ML Foundations** | 3 | 
 
 ---
 
