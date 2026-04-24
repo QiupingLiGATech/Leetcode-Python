@@ -17,6 +17,7 @@ The core idea behind this problem is the **Greedy Algorithm**.
 
 
 ### Code Implementation (Python)
+### Approach 1: Greedy Approach 
 
 ```python
 from typing import List
@@ -43,6 +44,9 @@ class Solution:
         return False
 ```
 
-### Complexity Analysis
+#### Complexity Analysis
 Time Complexity: O(n)，We go over the nums only once.        
 Space Complexity: O(1) 
+
+
+
