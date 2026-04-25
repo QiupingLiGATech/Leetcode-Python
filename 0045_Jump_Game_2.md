@@ -21,6 +21,7 @@ Three Steps:
 
 
 #### Python Code Implemenation
+#### Greedy Approach
 
 ```python
 from typing import List 
