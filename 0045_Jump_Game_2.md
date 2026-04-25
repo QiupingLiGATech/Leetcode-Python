@@ -10,12 +10,17 @@ i + j < n
 Return the minimum number of jumps to reach index n - 1. The test cases are generated such that you can reach index n - 1.
 
 
-#### 1. My Thoughts and Solution Approach 
+#### My Thoughts and Solution Approach 
 The Essence of the Greedy Strategy: In this problem, we don't care about the specific path taken to reach a point. Instead, we focus on the "Range of Coverage."
 Think of it as scouting ahead while walking on a bridge. As you walk on your current bridge, you look for the best possible spot to build the next bridge to extend your reach as far as possible.
+Three Steps:
+
+* Step 1: Scouting Phase: At every point, update the plan: if we were to jump from here, what is furthest we could reach.
+* Step 2: We hit the boundary of your current bridge. We need to build a new bridge, using our best plan.
+* Step 3: Termination Check: if the current brige can reach the final point, we stop. 
 
 
-#### 2. Python Code Implemenation
+#### Python Code Implemenation
 
 ```python
 from typing import List 
@@ -43,7 +48,7 @@ class Solution:
                 
         return count
 ```
-#### 3. Complexity Analysis
+#### Complexity Analysis
 
 Time Complexity: O(n) We perform a single linear scan of the nums array 
 Space Complexity: O(1) 
