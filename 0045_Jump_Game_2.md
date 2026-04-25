@@ -50,5 +50,5 @@ class Solution:
 ```
 #### Complexity Analysis
 
-Time Complexity: O(n) We perform a single linear scan of the nums array 
+Time Complexity: O(n) We perform a single linear scan of the nums array     
 Space Complexity: O(1) 
