@@ -7,8 +7,22 @@ space complexities.
 ## 📊 Problems by Topic Dashboard
 | Topic | # Problems Completed | 
 | :--- | :---: | 
-| **Arrays & Hashing** | 12 |
-| **Two Pointers** | 5 | 
+| **Arrays & String** | 19 |
+| **Hash** | 27 |
+| **Two Pointers** | 25 | 
+| **Sliding Window** | 16 | 
+| **Stack** | 18 | 
+| **Binary Search** | 21 | 
+| **Linked List** | 24 | 
+| **Binary Tree** | 33 | 
+| **Heap** |23|
+|**BackTracking**|24|
+|**Sorting**|9|
+|**Recursion|9|
+|**Dynamic Programming**|30|
+|**Greedy**|22|
+|**Graphs**|4|
+|**Bit Manipulation|10|
 | **Trees & Graphs** | 0  | 
 | **ML Foundations** | 3 | 
 
