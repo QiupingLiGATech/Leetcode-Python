@@ -18,13 +18,13 @@ space complexities.
 | **Heap** |23|
 |**BackTracking**|24|
 |**Sorting**|9|
-|**Recursion|9|
+|**Recursion**|9|
 |**Dynamic Programming**|30|
 |**Greedy**|22|
 |**Graphs**|4|
-|**Bit Manipulation|10|
-| **Trees & Graphs** | 0  | 
-| **ML Foundations** | 3 | 
+|**Bit Manipulation**|10|
+|**others**|20|
+
 
 ---
 # 🧭 LeetCode Python Algorithm Portfolio
