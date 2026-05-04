@@ -80,8 +80,8 @@ A comprehensive collection of 400 LeetCode solutions and core Machine Learning a
 <details>
 <summary><b> Greedy Algorithms</b></summary>
 
-1. [455. Assign Cookies](./0455_Assign_Cookies.ipynb)
-2. [53. Maximum Subarray](./0053_Maximum_Subarray.ipynb)
+1. [455. Assign Cookies](./0455_Assign_Cookies.md)
+2. [53. Maximum Subarray](./0053_Maximum_Subarray.md)
 3. [55. Jump Game](./0055_Jump_Game.md)
 4. [45. Jump_Game_2](./0045_Jump_Game_2.md)
 </details>
