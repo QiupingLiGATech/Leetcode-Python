@@ -14,7 +14,7 @@ Therefore we want to sort the balloons.
 if a balloons starting point is bigger than the previous balloon's ending point, then these two balloons do not overlap. then we need one more arrow. 
 otherwise, a baloon's starting point is smaller than or equal to the previous balloon's ending point, these two balloons overlaps. we do not need one more arrow. 
 
-### difficulty
+### Difficulty
 when two balloons overlap, what about the third balloon which also overalaps with these two???
 
 Now we will look at the smaller right end because we want to burst both baloons. Then compare this right end, with the new balloon's staring point. 
