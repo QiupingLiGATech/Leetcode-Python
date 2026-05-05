@@ -23,7 +23,7 @@ Output: 0
 Incrementing n-1 elements by 1 is equivalent to decrementing 1 element by 1. So instead of thinking "raise everything else," think "lower one element each move."
 To make all elements equal optimally, you want to bring everything down to the minimum value. 
 
-## Why This Is Hard to Reason About Directly? 
+#### Why This Is Hard to Reason About Directly? 
 If you try to simulate this, you face questions like:
 
 Which element do I skip each move?
