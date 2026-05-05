@@ -33,6 +33,8 @@ What's the target value — and it keeps moving up
 The target isn't fixed. Every move raises the floor, so you'd be chasing a moving target. It's hard to derive a clean formula this way. Focusing on incrementing n-1 elements is correct 
 but hard to compute directly because the target value drifts upward with every move. However, in the decrement 1 view, the target is fixed. it is always the current minimum value. 
 
+If you actually try to increment n-1 elements repeatedly, you'll end up in an infinite loop or a very inefficient simulation. By shifting your perspective to "relative difference," the problem collapses from a complex simulation into a simple linear calculation
+
 ## Python Code
 ```Python
 class Solution:
