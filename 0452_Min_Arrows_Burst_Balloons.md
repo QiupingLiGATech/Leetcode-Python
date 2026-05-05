@@ -8,7 +8,7 @@ Arrows can be shot up directly vertically (in the positive y-direction) from dif
 Given the array points, return the minimum number of arrows that must be shot to burst all balloons.
 
 
-## My Thoughts
+## My thoughts
 Greedy: I want the overlapping balloon to be put together, so that I can use one arrow to burst all of them. overall, I will use the minimum nubmer of arrows. 
 Therefore we want to sort the balloons. 
 if a balloons starting point is bigger than the previous balloon's ending point, then these two balloons do not overlap. then we need one more arrow. 
