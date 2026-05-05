@@ -19,7 +19,7 @@ when two balloons overlap, what about the third balloon which also overalaps wit
 
 Now we will look at the smaller right end because we want to burst both baloons. Then compare this right end, with the new balloon's staring point. 
 
-## Two Ways to Solve this problem
+## Two ways to solve this problem
 
 ## 1. Sort the baloons by their starting points.
 ```python
