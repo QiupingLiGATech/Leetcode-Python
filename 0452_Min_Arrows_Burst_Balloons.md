@@ -58,9 +58,13 @@ class Solution:
 
 ## 3. Comparision Table
 
-Sort by End	Place arrow at the end： If the next balloon starts after the arrow, shoot a new one.	（Simpler) 
-Sort by Start	Must track the "minimum end seen so far" to ensure you don't overshoot a short balloon.	(More Complex) 
+* Sort by End: Place arrow at the end： If the next balloon starts after the arrow, shoot a new one.	（Simpler)        
+* Sort by Start:Must track the "minimum end seen so far" to ensure you don't overshoot a short balloon.	(More Complex) 
 
-
+## 4 Time Complexity
+O(nlog n) because of sorting of the input data
+  
+## 5 Space Complexity
+O(n) because of the sorting algorithm
 
 
