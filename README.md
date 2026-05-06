@@ -86,6 +86,7 @@ A comprehensive collection of 400 LeetCode solutions and core Machine Learning a
 4. [45. Jump_Game_2](./0045_Jump_Game_2.md)
 5. [452.Minimum_Arrrows to Burst Balloons](./0452_Min_Arrows_Burst_Balloons.md)
 6. [453.Minimum_Moves_to_Equal_Array_Elements](./0453_Equal_Elements.md)
+7. [435.Non-overlapping Intervals](./0435_Non_Overlapping_Intervals.md)
 </details>
 
 <details>
