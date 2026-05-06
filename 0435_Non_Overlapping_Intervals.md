@@ -37,6 +37,24 @@ class Solution:
                 continue                
         return len(intervals)-NonOverLap
 ```
+### The other approach is your sort by the staring point
+
+```python
+class Solution:
+    def eraseOverlapIntervals(self, intervals: List[List[int]]) -> int:
+        n=len(intervals)
+        intervals.sort(key=lambda x:x[0])
+        prev_end=intervals[0][1]
+        removed=0
+        for x_start, x_end in intervals[1::]:
+            if x_start<prev_end: ## there is overlap, I need to remove, which one to remove?
+                removed+=1
+                prev_end=min(prev_end, x_end) ## update prev_end
+            else: ## There is no overlap. 
+                prev_end=x_end ## update prev_end
+        return removed
+```
+
 ## Time Cmoplexity
 O(nlogn) because of sorting
 
