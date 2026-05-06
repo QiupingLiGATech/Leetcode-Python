@@ -19,7 +19,7 @@ Example Case: [[1, 10], [2, 3], [3, 4]] By Start Point: You see [1, 10] first. I
 By End Point: You sort them as [[2, 3], [3, 4], [1, 10]].Pick [2, 3]. It ends at 3.Next is [3, 4]. It starts at 3, which is $\geq$ the previous end. Keep it!
 Next is [1, 10]. It starts at 1, which is $<$ 4. Remove it. (Total removed: 1)
 
-## Code
+## Code (when you sort by the ending point) 
 
 ```Python
 class Solution:
@@ -37,7 +37,7 @@ class Solution:
                 continue                
         return len(intervals)-NonOverLap
 ```
-### The other approach is your sort by the staring point
+### The other approach when you sort by the staring point
 
 ```python
 class Solution:
