@@ -70,11 +70,10 @@ A comprehensive collection of 400 LeetCode solutions and core Machine Learning a
 </details>
 
 <details>
-<summary><b> Backtracking</b></summary>
+<summary><b> Heap </b></summary>
 
 1. [77. Combinations](./0077_Combinations.ipynb)
-2. [46. Permutations](./0046_Permutations.ipynb)
-3. [51. N-Queens](./0051_N_Queens.ipynb)
+
 </details>
 
 <details>
