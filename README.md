@@ -25,7 +25,7 @@ space complexities.
 |**Bit Manipulation**|10|
 |**others**|20|
 ---
-## 📚 Topic-wise Problem Index
+## 📚 Topic-wise Problem Index (Click each topic and see a list of Leetcode problems under that specific topic) 
 
 <details>
 <summary><b> Arrays & Hashing</b></summary>
