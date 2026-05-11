@@ -1,4 +1,4 @@
-# LeetCode Python Solutions 
+# 400 LeetCode Problem and Their Python Solutions 
 
 A comprehensive collection of 400 LeetCode problems solved using Python via Jupyter Notebooks. 
 For each problem, I discussed multiple apporaches and their corresponding time complexities and 
