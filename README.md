@@ -108,4 +108,5 @@ space complexities.
 Each notebook includes:
 1. **Problem Context:** Direct link to LeetCode and description.
 2. **Intuition Thoughts and Approaches:** Why a specific data structure or algorithm was chosen.
-3. **Complexity Analysis:** Time Complexity and Space Complexity
+3. **Python Code:** Python Code for this leetcode problem.
+4. **Complexity Analysis:** Time Complexity and Space Complexity
