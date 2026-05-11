@@ -1,7 +1,6 @@
 # 400+ LeetCode Problem and Their Python Solutions 
 
-A comprehensive collection of 400+ LeetCode problems solved using Python via Jupyter Notebooks. 
-For each problem, I discussed multiple apporaches and their corresponding time complexities and 
+A comprehensive collection of 400+ LeetCode problems solved using Python. For each problem, I shared my thoughts, discussed multiple apporaches, their corresponding time complexities and 
 space complexities. 
 
 ## 📊 Problems by Topic Dashboard
@@ -25,7 +24,7 @@ space complexities.
 |**Bit Manipulation**|10|
 |**others**|20|
 ---
-## 📚 Leetcode Problems and Solutions Grouped by Topics (Click each topic below) (This is still under active construction) 
+## 📚 Leetcode Problems and Python Solutions Grouped by Topics (Click each topic below) (This is still under active construction) 
 
 <details>
 <summary><b> Arrays & Hashing</b></summary>
@@ -105,15 +104,8 @@ space complexities.
 </details>
 
 ---
-
-## 🛠️ Environment & Tools
-* **Language:** Python 3.10+
-* **Interface:** Jupyter Notebook / Google Colab
-* **Key Libraries:** `collections`, `heapq`, `itertools`, `numpy` (for ML)
-
 ## 💡 Documentation Standard
 Each notebook includes:
 1. **Problem Context:** Direct link to LeetCode and description.
-2. **Intuition:** Why a specific data structure or algorithm was chosen.
-3. **Complexity Analysis:** Explicit Time $O(n)$ and Space $O(n)$ metrics.
-4. **Unit Tests:** Sample inputs and outputs to verify correctness.
+2. **Intuition Thoughts and Approaches:** Why a specific data structure or algorithm was chosen.
+3. **Complexity Analysis:** Time Complexity and Space Complexity
