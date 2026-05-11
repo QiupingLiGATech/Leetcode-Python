@@ -24,15 +24,7 @@ space complexities.
 |**Graphs**|4|
 |**Bit Manipulation**|10|
 |**others**|20|
-
-
 ---
-# 🧭 LeetCode Python Algorithm Portfolio
-
-A comprehensive collection of 400 LeetCode solutions and core Machine Learning algorithms. Each solution is documented in a **Jupyter Notebook** with a focus on optimized Pythonic patterns, Big O complexity analysis, and interactive **Google Colab** execution.
-
----
-
 ## 📚 Topic-wise Problem Index
 
 <details>
