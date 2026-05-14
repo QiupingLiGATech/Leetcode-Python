@@ -27,12 +27,19 @@ space complexities.
 ## 📚 Leetcode Problems and Python Solutions Grouped by Topics (Click each topic below) (This is still under active construction) 
 
 <details>
-<summary><b> Arrays & Hashing</b></summary>
+<summary><b> 1. Arrays & Strings</b></summary>
 
 1. [1. Two Sum](./0001_Two_Sum.ipynb) [🚀 Run in Colab](https://colab.research.google.com/github/QiupingLiGATech/Leetcode-Python/blob/main/0001_Two_Sum.ipynb)
 2. [242. Valid Anagram](./0242_Valid_Anagram.ipynb)
 3. [349. Intersection of Two Arrays](./0349_Intersection_Arrays.ipynb)
 4. [202. Happy Number](./0202_Happy_Number.ipynb)
+</details>
+
+<details>
+<summary><b> 2. Hashing </b></summary>
+
+1. [1. Two Sum](./0001_Two_Sum.md)
+
 </details>
 
 <details>
