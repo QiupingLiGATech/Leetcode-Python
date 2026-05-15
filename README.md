@@ -43,6 +43,13 @@ space complexities.
 </details>
 
 <details>
+<summary><b> 7. Linked List </b></summary>
+
+1. [2. Add Two Numbers](./0002_Add_Two_Numbers.md)
+
+</details>
+
+<details>
 <summary><b> Two Pointers & Sliding Window</b></summary>
 
 1. [27. Remove Element](./0027_Remove_Element.ipynb)
