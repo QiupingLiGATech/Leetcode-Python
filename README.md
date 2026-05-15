@@ -43,6 +43,38 @@ space complexities.
 </details>
 
 <details>
+<summary><b> 3. Two Pointers </b></summary>
+
+1. [27. Remove Element](./0027_Remove_Element.ipynb)
+2. [15. 3Sum](./0015_3Sum.ipynb)
+3. [18. 4Sum](./0018_4Sum.ipynb)
+4. [3. Longest Substring Without Repeating Characters](./0003_Longest_Substring.ipynb)
+</details>
+
+<details>
+<summary><b> 4. Sliding Window </b></summary>
+
+1. [27. Remove Element](./0027_Remove_Element.ipynb)
+2. [15. 3Sum](./0015_3Sum.ipynb)
+3. [18. 4Sum](./0018_4Sum.ipynb)
+4. [3. Longest Substring Without Repeating Characters](./0003_Longest_Substring.ipynb)
+</details>
+
+<details>
+<summary><b> 5. Stack </b></summary>
+
+1. [2. Add Two Numbers](./0002_Add_Two_Numbers.md)
+
+</details>
+
+<details>
+<summary><b> 6. Binary Search </b></summary>
+
+1. [2. Add Two Numbers](./0002_Add_Two_Numbers.md)
+
+</details>
+
+<details>
 <summary><b> 7. Linked List </b></summary>
 
 1. [2. Add Two Numbers](./0002_Add_Two_Numbers.md)
