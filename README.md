@@ -29,7 +29,8 @@ space complexities.
 <details>
 <summary><b> 1. Arrays and Strings and math</b></summary>
 
-1. [9. Palindrome Number](./0009_Palindrome_Number.md) 
+1. [9. Palindrome Number](./0009_Palindrome_Number.md)
+2. [14.Longest Commmon Prefix](./0014_Longest_Common_Prefix.md)
 
 </details>
 
