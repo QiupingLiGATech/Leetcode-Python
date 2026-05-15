@@ -81,22 +81,6 @@ space complexities.
 
 </details>
 
-<details>
-<summary><b> Two Pointers & Sliding Window</b></summary>
-
-1. [27. Remove Element](./0027_Remove_Element.ipynb)
-2. [15. 3Sum](./0015_3Sum.ipynb)
-3. [18. 4Sum](./0018_4Sum.ipynb)
-4. [3. Longest Substring Without Repeating Characters](./0003_Longest_Substring.ipynb)
-</details>
-
-<details>
-<summary><b> Stacks & Queues</b></summary>
-
-1. [20. Valid Parentheses](./0020_Valid_Parentheses.ipynb)
-2. [232. Implement Queue using Stacks](./0232_Implement_Queue_using_Stacks.ipynb)
-3. [347. Top K Frequent Elements](./0347_Top_K_Frequent_Elements.ipynb)
-</details>
 
 <details>
 <summary><b> Binary Trees</b></summary>
