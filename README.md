@@ -42,8 +42,15 @@ space complexities.
 
 </details>
 
+<details>
+<summary><b> 3.Two Pointers </b></summary>
+
+1. [15. Three Sum](./0015_Three_Sum.md)
+
 </details>
-<summary><b> 3. Sliding Window</b></summary>
+
+</details>
+<summary><b> 4. Sliding Window</b></summary>
 
 1. [3. Longest Substring Without Repeating Characters](./0003_LS_Without_Repeating.md)
 
