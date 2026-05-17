@@ -14,6 +14,7 @@ from typing import defaultdict
 
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
+
         ans = left = 0
         
         myDict = defaultdict(int)  # 维护从 left index 到right index 的字符及其出现次数
