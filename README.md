@@ -41,7 +41,14 @@ space complexities.
 
 </details>
 
+</details>
+<summary><b> 3. Sliding Window</b></summary>
 
+1. [3. Longest_Substring_Without_Repeating_Characters](./0003_LS_Without_Repeating.md)
+
+</details>
+
+</details>
 <summary><b> 7. Linked List </b></summary>
 
 1. [2. Add Two Numbers](./0002_Add_Two_Numbers.md)
