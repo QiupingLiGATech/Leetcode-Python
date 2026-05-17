@@ -27,7 +27,7 @@ class Solution:
             
             while myDict[s[right]] > 1:  # 窗口内有重复字母; Suggests time to CONTRACT WINDOW
                 myDict[s[left]] -= 1  # 移除窗口最左端点字母
-                left += 1  # 缩小窗口
+                left += 1  # 缩小窗口, 1 step at a time. 
                 
             ans = max(ans, right - left + 1)  # 更新窗口长度最大值
             right+=1 ## Do not forget right+=1
