@@ -44,7 +44,7 @@ space complexities.
 </details>
 <summary><b> 3. Sliding Window</b></summary>
 
-1. [3. Longest_Substring_Without_Repeating_Characters](./0003_LS_Without_Repeating.md)
+1. [3. Longest Substring Without Repeating Characters](./0003_LS_Without_Repeating.md)
 
 </details>
 
