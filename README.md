@@ -31,6 +31,7 @@ space complexities.
 
 1. [9. Palindrome Number](./0009_Palindrome_Number.md)
 2. [14.Longest Commmon Prefix](./0014_Longest_Common_Prefix.md)
+3. [1929.Concatenation of Array](./1929_Concat_Array.md)
 
 </details>
 
