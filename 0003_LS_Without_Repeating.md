@@ -21,7 +21,8 @@ class Solution:
         
         right=0
 
-        while right<len(s): ## This is to expand window 
+        while right<len(s): ## This is to expand window
+
             myDict[s[right]] += 1
             
             while myDict[s[right]] > 1:  # 窗口内有重复字母; Suggests time to CONTRACT WINDOW
