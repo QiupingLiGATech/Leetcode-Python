@@ -46,6 +46,7 @@ space complexities.
 <summary><b> 3.Two Pointers </b></summary>
 
 1. [15. Three Sum](./0015_Three_Sum.md)
+2. [167.Two Sum II](./0167_Two_Sum_II.md)
 
 </details>
 
