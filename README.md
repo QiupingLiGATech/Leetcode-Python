@@ -47,6 +47,7 @@ space complexities.
 
 1. [15. Three Sum](./0015_Three_Sum.md)
 2. [167.Two Sum II](./0167_Two_Sum_II.md)
+3. [5.Longest Palindromic Substring](.0005_Longest_Palindromic.md)
 
 </details>
 
