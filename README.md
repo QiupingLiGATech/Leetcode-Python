@@ -32,6 +32,7 @@ space complexities.
 1. [9. Palindrome Number](./0009_Palindrome_Number.md)
 2. [14.Longest Commmon Prefix](./0014_Longest_Common_Prefix.md)
 3. [1929.Concatenation of Array](./1929_Concat_Array.md)
+4. [121.Best Time to Buy and Sell Stock](./0121_Best_Time_Buy_Sell_Stock.md)
 
 </details>
 
