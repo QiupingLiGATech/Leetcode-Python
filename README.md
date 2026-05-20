@@ -112,9 +112,8 @@ space complexities.
 </details>
 
 <details>
-<summary><b> SQL</b></summary>
+<summary><b> Graph Theory</b></summary>
 1. [175. Combine Two Tables](./0175_Combine_Two_Tables.md)
-
 </details>
 
 ---
