@@ -112,11 +112,9 @@ space complexities.
 </details>
 
 <details>
-<summary><b> Machine Learning Foundations</b></summary>
+<summary><b> SQL</b></summary>
+1. [175. Combine Two Tables](./0175_Combine_Two_Tables.md)
 
-1. [K-Means Clustering from Scratch](./K_Means_Implementation.ipynb)
-2. [K-Nearest Neighbors (KNN) Implementation](./KNN_Implementation.ipynb)
-3. [Gradient Descent Simulation](./Gradient_Descent.ipynb)
 </details>
 
 ---
