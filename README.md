@@ -36,9 +36,10 @@ space complexities.
 </details>
 
 <details>
-<summary><b> 2. Hashing </b></summary>
+<summary><b> 2. Hash Table </b></summary>
 
 1. [1. Two Sum](./0001_Two_Sum.md)
+2. [13. Roman to Integer](./0013_Roman_to_Integer.md)
 
 </details>
 
