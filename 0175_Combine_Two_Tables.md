@@ -38,8 +38,9 @@ The result format is in the following example.
 
 Left join
 
+## SQL Code 
 
-```SQ;
+```SQL
 # Write your MySQL query statement below
 select firstName, lastName, city, state 
 from Person left join Address 
