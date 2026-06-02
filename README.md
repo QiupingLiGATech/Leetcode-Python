@@ -77,9 +77,10 @@ space complexities.
 </details>
 
 <details>
-<summary><b> Heap </b></summary>
+<summary><b> 10. Heap </b></summary>
 
 1. [77. Combinations](./0077_Combinations.ipynb)
+2. [215.Kth Largest Element](./0215_Kth_Largest.md)
 
 </details>
 
