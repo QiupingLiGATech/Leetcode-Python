@@ -8,6 +8,8 @@ Given an array nums containing n distinct numbers in the range [0, n], return th
 Arithmetic Series Summation:  When you add all the terms in an arithmetic sequence together, it forms an arithmetic series. 
 The sum of the first n terms is calculated using the formula: Sum=(a1+an)*n/2
 
+Use the above sum and subtract the sum of the given num, we shall be able to find the missing number. 
+
 ## Python Code
 
 ```Python
