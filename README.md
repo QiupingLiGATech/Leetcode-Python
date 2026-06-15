@@ -114,6 +114,12 @@ space complexities.
 </details>
 
 <details>
+<summary><b> 18.Math </b></summary>
+  
+1. [268. Missing Number](./0268_Missing_Numbers.md)
+</details>
+
+<details>
 <summary><b> SQL</b></summary>
   
 1. [175. Combine Two Tables](./0175_Combine_Two_Tables.md)
