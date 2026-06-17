@@ -118,6 +118,7 @@ space complexities.
 <summary><b> 18.Math </b></summary>
   
 1. [268. Missing Number](./0268_Missing_Numbers.md)
+2. [1295.Find_Numbers_with_Even_Digits](./1295_Even_Digits.md)
 </details>
 
 <details>
