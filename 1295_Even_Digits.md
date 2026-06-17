@@ -1,4 +1,5 @@
 # 1 Find Number with Even Number of Digits
+Given an array nums of integers, return how many of them contain an even number of digits.
 
 ## Python Code
 
@@ -22,3 +23,11 @@ class Solution:
 
 
 ```
+
+## Time Complexity
+
+O(nLog m)
+
+## Space Complexity
+
+O(1) 
