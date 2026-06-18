@@ -3,27 +3,6 @@
 A comprehensive collection of 400+ LeetCode problems solved using Python. For each problem, I shared my thoughts, discussed multiple apporaches, their corresponding time complexities and 
 space complexities. 
 
-## 📊 Problems by Topic Dashboard
-| Topic | # Problems Completed | 
-| :--- | :---: | 
-| **Arrays & String** | 19 |
-| **Hash** | 27 |
-| **Two Pointers** | 25 | 
-| **Sliding Window** | 16 | 
-| **Stack** | 18 | 
-| **Binary Search** | 21 | 
-| **Linked List** | 24 | 
-| **Binary Tree** | 33 | 
-| **Heap** |23|
-|**BackTracking**|24|
-|**Sorting**|9|
-|**Recursion**|9|
-|**Dynamic Programming**|30|
-|**Greedy**|22|
-|**Graphs**|4|
-|**Bit Manipulation**|10|
-|**others**|20|
----
 ## 📚 Leetcode Problems and Python Solutions Grouped by Topics (Click each topic below) (This is still under active construction) 
 
 <details>
@@ -33,6 +12,7 @@ space complexities.
 2. [14.Longest Commmon Prefix](./0014_Longest_Common_Prefix.md)
 3. [1929.Concatenation of Array](./1929_Concat_Array.md)
 4. [121.Best Time to Buy and Sell Stock](./0121_Best_Time_Buy_Sell_Stock.md)
+5. [485.Max_Consecutive_Ones](./0485_Max_Consecutive_Ones.md)
 
 </details>
 
