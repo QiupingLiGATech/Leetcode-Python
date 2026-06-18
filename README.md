@@ -27,7 +27,7 @@ space complexities.
 ## 📚 Leetcode Problems and Python Solutions Grouped by Topics (Click each topic below) (This is still under active construction) 
 
 <details>
-<summary><b> 1. Arrays and Strings and math</b></summary>
+<summary><b> 1. Arrays and Strings </b></summary>
 
 1. [9. Palindrome Number](./0009_Palindrome_Number.md)
 2. [14.Longest Commmon Prefix](./0014_Longest_Common_Prefix.md)
