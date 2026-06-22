@@ -31,6 +31,7 @@ space complexities.
 2. [167.Two Sum II](./0167_Two_Sum_II.md)
 3. [5.Longest Palindromic Substring](./0005_Longest_Palindromic.md)
 4. [1089.Duplicate_Zeros](./1089_Duplicate_Zeros.md)
+5. [905.Sort_Array_Parity](./0905_SortArrayParity.md)
 
 </details>
 
