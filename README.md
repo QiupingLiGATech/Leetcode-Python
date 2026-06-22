@@ -14,6 +14,7 @@ space complexities.
 4. [121.Best Time to Buy and Sell Stock](./0121_Best_Time_Buy_Sell_Stock.md)
 5. [485.Max_Consecutive_Ones](./0485_Max_Consecutive_Ones.md)
 6. [941.Valid_Mountain_Array](./0941_Valid_Mountain_Array.md)
+7. [1299.Replace_Elements_MaxToRight](./1299_Replace_Elements_MaxToRight.md)
 
 </details>
 
