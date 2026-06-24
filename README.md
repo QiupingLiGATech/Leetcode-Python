@@ -104,6 +104,7 @@ space complexities.
 1. [268. Missing Number](./0268_Missing_Numbers.md)
 2. [1295.Find_Numbers_with_Even_Digits](./1295_Even_Digits.md)
 3. [9.Palindrome_Number](./0009_Palindrome_Number.md)
+4. [1480.Running_Sum](./1480_Running_Sum.md)
 </details>
 
 <details>
