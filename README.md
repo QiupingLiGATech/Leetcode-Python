@@ -16,6 +16,7 @@ space complexities.
 6. [941.Valid_Mountain_Array](./0941_Valid_Mountain_Array.md)
 7. [1299.Replace_Elements_MaxToRight](./1299_Replace_Elements_MaxToRight.md)
 8. [252.Meeting_Rooms](./252_Meeting_Rooms.md)
+9. [58.Length_Last_Word](./0058_Length_Last_Word.md)
 
 </details>
 
