@@ -36,6 +36,7 @@ space complexities.
 3. [5.Longest Palindromic Substring](./0005_Longest_Palindromic.md)
 4. [1089.Duplicate_Zeros](./1089_Duplicate_Zeros.md)
 5. [905.Sort_Array_Parity](./0905_SortArrayParity.md)
+6. [345.Reverse_Vowels](./0345_Reverse_Vowels.md)
 
 </details>
 
