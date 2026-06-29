@@ -64,7 +64,7 @@ class Solution:
 ```
 
 ## Time Complexity
-O(nlog n)
+O(nlog n) for heap method ; O(n) for buckets sort
 
 ## Space Complexity
 o(n)
