@@ -22,7 +22,9 @@ pre[i]=pre[i−1]×nums[i−1]
 Similarly,
 
 suf[i]=suf[i+1]×nums[i+1]
-Initialization
+
+
+#### Edge Cases: 
 
 Set:
 
