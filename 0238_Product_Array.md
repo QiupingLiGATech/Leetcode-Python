@@ -24,7 +24,7 @@ Similarly,
 suf[i]=suf[i+1]×nums[i+1]
 
 
-#### Edge Cases/Initialization
+### Edge Cases/Initialization
 
 Set:
 
