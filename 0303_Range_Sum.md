@@ -26,8 +26,8 @@ class NumArray:
    
         ### 计算 self.s[i+1] 在 s[i]的基础上+x; 降低了时间复杂度。 By using s[i] + x to calculate the next value, the code avoids ## ##re-summing the array from scratch every time. It ## builds ### the entire history in a single, efficient O(n) pass by ## always building on top of the last number it computed.
         for i, x in enumerate(nums):
-            self.s[i + 1] = self.s[i] + x  #### 2 s[i]: the sum of the first i elements: from s[0] to s[i-1]
-                                           #### s[i+1]: the sum of the first i+1 elemetns, including from s[0] to s[i]
+            self.s[i + 1] = self.s[i] + x  #### 2 s[i]: the sum of the first i elements: from a[0] to a[i-1]
+                                           #### s[i+1]: the sum of the first i+1 elemetns, including from a[0] to a[i]
 
 
 
