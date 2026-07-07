@@ -32,7 +32,7 @@ class NumArray:
 
 
     def sumRange(self, left: int, right: int) -> int:
-        return self.s[right + 1] - self.s[left] ##3 第一项： s[0] 到s[right]; 第二项： s[0] 到 s[left-1] 
+        return self.s[right + 1] - self.s[left] ##3 第一项： a[0] 到a[right]; 第二项： a[0] 到 a[left-1] 
 
 
 ##1. Why do we need s[i + 1]?
