@@ -26,13 +26,13 @@ class NumArray:
    
         ### 计算 self.s[i+1] 在 s[i]的基础上+x; 降低了时间复杂度。 By using s[i] + x to calculate the next value, the code avoids ## ##re-summing the array from scratch every time. It ## builds ### the entire history in a single, efficient O(n) pass by ## always building on top of the last number it computed.
         for i, x in enumerate(nums):
-            self.s[i + 1] = self.s[i] + x  #### 2 s[i]: the sum of the first i elements: from a[0] to a[i-1]
-                                           #### s[i+1]: the sum of the first i+1 elemetns, including from a[0] to a[i]
+            self.s[i + 1] = self.s[i] + x  #### 2 s[i]: the sum of the first i elements: from nums[0] to nums[i-1]
+                                           #### s[i+1]: the sum of the first i+1 elemetns, including from nums[0] to nums[i]
 
 
 
     def sumRange(self, left: int, right: int) -> int:
-        return self.s[right + 1] - self.s[left] ##3 第一项： a[0] 到a[right]; 第二项： a[0] 到 a[left-1] 
+        return self.s[right + 1] - self.s[left] ##3 第一项： nums[0] 到nums[right]; 第二项： nums[0] 到 nums[left-1] 
 
 
 ##1. Why do we need s[i + 1]?
