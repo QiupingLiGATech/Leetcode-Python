@@ -112,6 +112,7 @@ space complexities.
 3. [9.Palindrome_Number](./0009_Palindrome_Number.md)
 4. [1480.Running_Sum](./1480_Running_Sum.md)
 5. [1502.Arithmetic_Progression](./1502_Arithmetic_Progression.md)
+6. [204.Count_Primes](./204_Count_Primes.md)
 </details>
 
 <details>
