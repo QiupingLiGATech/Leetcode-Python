@@ -36,7 +36,7 @@ class Solution:
         for num in range(2,int(n**0.5)+1):  ##外层循环只需到 qrt{n}：因为如果一个合数可以分解为 p*q，那么 p 和 q 之中一定有一个小于或等于 sqrt{n}。
 
             if CheckList[num]: ## if num is a prime number
-                for indx in range(num*num, n, num): ###内层循环从 num*num 开始，比如当 i = 3 时，我们不需要从 3*2 = 6 开始标记，因为 2*3在之前 i = 2 的时候已经被标记过了。所以直接从 3*3 = 9 开始标记即可。
+                for indx in range(num*num, n, num): ###内层循环从 num*num 开始，比如当 num = 3 时，我们不需要从 3*2 = 6 开始标记，因为 2*3在之前 i = 2 的时候已经被标记过了。所以直接从 3*3 = 9 开始标记即可。
 
                     CheckList[indx]=False
         
