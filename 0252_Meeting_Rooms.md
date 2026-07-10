@@ -6,6 +6,8 @@ A person can attend all meetings if no two meeting intervals overlap. Meetings e
 
 ​​​​​​​Return true if a person can attend all meetings. Otherwise, return false.
 
+## Thoughts and approaches
+The idea here is to sort the meetings by starting time. Then, go through the meetings one by one and make sure that each meeting ends before the next one starts
 
 ## Python Code
 
