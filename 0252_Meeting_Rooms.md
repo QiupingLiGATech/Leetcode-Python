@@ -28,7 +28,7 @@ class Solution:
 ```
 
 ## Time Cmoplexity
-O(N LOG N)
+O(N LOG N) The time complexity is dominated by the sorting step. Once the array has been sorted, only O(n) time is required to go through the array and determine if there is any overlap.
 
 ## Space Complexity
 O(N)
