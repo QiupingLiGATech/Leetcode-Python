@@ -38,7 +38,7 @@ class Solution:
         number = 0
 
         while i <= n-1 and '0' <= s[i] <= '9':
-            number = number * 10 + int(s[i]) ## read each number one by one 
+            number = number * 10 + int(s[i]) ## read each number one by one，from the first number to the last number; number=0, 1, 10+3, 13*10+3, 133*10+7
             
             if number > MAXBOUND:  # 最终答案已确定，提前返回
                 return MAXBOUND if sign > 0 else -2**31
