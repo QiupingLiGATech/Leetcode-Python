@@ -13,7 +13,7 @@ string convert(string s, int numRows);
 
 ## Thoughts and Approaches
 
-The important part is how to decide move ups and move downs? In this solution, we introduced flag and used "i+=flag" to determine the value of i . Flag can be either 1 (moving down rows) or -1 (moving up rows). When we hit the very top row, so we must start moving down (flag becomes 1). When i == numRows - 1, we've hit the bottom row, so we must start moving up (flag becomes -1).
+We first initialize the result as a list of empty string, one empty string for each row. Then we need to decide move ups and move downs. In this solution, we introduced flag and used "i+=flag" to determine the value of i . Flag can be either 1 (moving down rows) or -1 (moving up rows). When we hit the very top row, so we must start moving down (flag becomes 1). When i == numRows - 1, we've hit the bottom row, so we must start moving up (flag becomes -1).
 
 ## Python Code
 
