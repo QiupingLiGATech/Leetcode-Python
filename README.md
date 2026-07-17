@@ -25,6 +25,7 @@ space complexities.
 15. [252.Meeting_Rooms](./0252_Meeting_Rooms.md)
 16. [2966.Divide_Array_into_Arrays](./2966_Divide_Array.md)
 17. [8.String_to_Integer](./0008_String_To_Integer.md)
+18. [6.ZigZag_Conversion](./0006_ZigZag_Conversion.md)
 
 </details>
 
