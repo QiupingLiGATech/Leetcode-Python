@@ -1,7 +1,7 @@
 # 400+ LeetCode Problem and Their Python Solutions 
 
-A comprehensive collection of 400+ LeetCode problems solved using Python. For each problem, I shared my thoughts, discussed multiple apporaches, their corresponding time complexities and 
-space complexities. 
+A comprehensive collection of 400+ LeetCode problems solved using Python. For each problem, I shared my thoughts, apporaches, pitfalls, and the corresponding time complexities and 
+space complexity for each solution. 
 
 ## 📚 Leetcode Problems and Python Solutions Grouped by Topics (Click each topic below) (This is still under active construction) 
 
