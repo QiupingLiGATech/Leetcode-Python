@@ -26,6 +26,7 @@ space complexity for each solution.
 16. [2966.Divide_Array_into_Arrays](./2966_Divide_Array.md)
 17. [8.String_to_Integer](./0008_String_To_Integer.md)
 18. [6.ZigZag_Conversion](./0006_ZigZag_Conversion.md)
+19. [271.Encode_Decode_Strings](./0271_Encode_Decode_Strings.md)
 
 </details>
 
