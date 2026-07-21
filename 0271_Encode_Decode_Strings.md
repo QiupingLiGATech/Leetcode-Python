@@ -30,7 +30,7 @@ class Codec:
         res = []
         # Format length as a zero-padded 4-digit integer (e.g. 5 -> "0005")
         for s in strs:
-            length = len(s)
+            length = len(s) # 1. Get length 
             # 1. 把长度转化成固定的 4 位字符串
             length_str = str(length).zfill(4)
             # 2. 把 4 位长度头和原字符串拼接在一起
