@@ -61,7 +61,7 @@ class Codec:
 ```
 
 ## Time Complexity
-O(n)
+O(n) Both encoding and decoding processes iterate over every character in the input, thus they both have a linear time complexity of O(n)
 
 ## Space Complexity
-O(n) 
+O(n)  We don't count the output as part of the space complexity, but for each word, we are using some space for the escape character and delimiter.
