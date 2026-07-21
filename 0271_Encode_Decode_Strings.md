@@ -41,23 +41,23 @@ class Codec:
         return "".join(res)
 
     def decode(self, s: str) -> list[str]:
-        res = []  # 1. Stores the final decoded strings.
-        i = 0  # 2. Pointer tracking where we are in s.
+        res = []  
+        i = 0  
 
-        while i < len(s):  # 3. Process s until reaching the end.
-            # 4. Extract 4 digits for length (e.g., s[0:4] -> "0005" -> 5)
+        while i < len(s):  
+            # 1. Extract 4 digits for length 
             length = int(s[i : i + 4])
 
-            # 5. Move past the 4-digit header to the start of content
+            # 2. Move i to the start of the real string
             i += 4
 
-            # 6. Slice exact string length (s[4:9] -> "hello") & add to list
+            # 3. Get the string
             res.append(s[i : i + length])
 
-            # 7. Move pointer past content to start of next header
+            # 4. Move the pointer to the start of next chunk 
             i += length
 
-        return res  # 8. Return list of original strings
+        return res  
 ```
 
 ## Time Complexity
