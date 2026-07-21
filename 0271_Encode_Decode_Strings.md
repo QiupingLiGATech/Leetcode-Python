@@ -45,16 +45,16 @@ class Codec:
         i = 0  
 
         while i < len(s):  
-            # 1. Extract 4 digits for length 
+            # 1. Extract integer length 
             length = int(s[i : i + 4])
 
-            # 2. Move i to the start of the real string
+            # 2. Move the ponter i, to the start of the real string
             i += 4
 
             # 3. Get the string
             res.append(s[i : i + length])
 
-            # 4. Move the pointer to the start of next chunk 
+            # 4. Move the pointer i, to the start of next chunk 
             i += length
 
         return res  
